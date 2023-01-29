@@ -104,7 +104,6 @@ PyYAML==5.4.1
 pyzmq==22.3.0
 reportlab==3.6.8
 requests==2.25.1
-scipy==1.8.0
 SecretStorage==3.3.1
 Send2Trash==1.8.1b0
 six==1.16.0
