@@ -22,7 +22,7 @@ distro==1.7.0
 entrypoints==0.4
 exceptiongroup==1.1.0
 fasteners==0.14.1
-flake8==6.0.0
+flake8==5.0.4
 fonttools==4.29.1
 fs==2.4.12
 future==0.18.2
