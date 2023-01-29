@@ -11,6 +11,9 @@ jobs:
       - checkout
       # Crea un entorno virtual
       - run:
+          name: Upgrade pip
+          command: /home/circleci/devops/venv/bin/python3 -m pip install --upgrade pip
+      - run:
           name: install dependencies
           command: |
             python3 -m venv venv
