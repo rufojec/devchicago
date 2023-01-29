@@ -9,7 +9,7 @@ jobs:
     steps:
       # Obtener repo github
       - checkout
-      # Crea un entorno virtual
+      # Crea un entorno virtual.
       - run:
           name: install dependencies
           command: |
