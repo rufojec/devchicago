@@ -1,4 +1,3 @@
-appdirs==1.4.4∑
 argon2-cffi==21.1.0
 attrs==21.2.0
 Babel==2.8.0
