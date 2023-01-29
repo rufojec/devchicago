@@ -17,7 +17,7 @@ jobs:
             . venv/bin/activate
             python3 -m pip install --upgrade pip
             pip install flake8
-            pip install apturl==0.5.1
+            pip install apturl==0.5.2
             pip install -r requirements.txt
       - run:
           name: run test
